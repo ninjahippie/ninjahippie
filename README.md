@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ninjahippie
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on I dont know
-- 📫 How to reach me picchetti.sebastian@gmail.com
+- 💞️ I’m looking to collaborate on aswrrwqa
+- 📫 How to reach me Vallhala
 
 <!---
 ninjahippie/ninjahippie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
